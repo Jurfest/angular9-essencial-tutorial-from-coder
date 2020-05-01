@@ -1,8 +1,14 @@
 # Frontend
 
 Front-End: Angular 9 website that performs CRUD operations.
-
+This project was the result of the free, online and certified course provided by [COD3R](https://www.cod3r.com.br/courses/angular-9-essencial).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+
+<!-- ### :rocket: Preview
+
+<h1 align="center">
+    <img alt="" src="./public/assets/preview.png" width="940px"/>
+</h1> -->
 
 ## Development server
 
@@ -28,6 +34,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# Backend
+## Backend
 
 Backend is not included in this repository. However it can be easily and quickly created, making use of [json-server](https://github.com/typicode/json-server).
+
+### Thats it ! :wave:
+
+---
+
+by Diego Jurfest :tada:
