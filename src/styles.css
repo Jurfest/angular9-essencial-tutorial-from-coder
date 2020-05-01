@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+  /* variables */
+
+  /* primary */
+  --very-dark-blue: hsl(243, 87%, 12%);
+  --desaturated-blue: hsl(238, 22%, 44%);
+
+  /* accent */
+  --bright-blue: hsl(224, 93%, 58%);
+  --moderate-cyan: hsl(170, 45%, 43%);
+
+  /* neutral */
+  --light-grayish-blue: hsl(240, 75%, 98%);
+  --light-gray: hsl(0, 0%, 75%);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red {
+  color: rgb(227, 94, 107);
+}
+
+.blue {
+  color: var(--moderate-cyan);
+}
+
+.v-middle {
+  vertical-align: middle;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--moderate-cyan);
+}
