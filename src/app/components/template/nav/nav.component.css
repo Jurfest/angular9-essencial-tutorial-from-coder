@@ -1,18 +1,22 @@
-.container {
-  min-height: 50%;
+/* .container {
+  height: 89%; 
   width: 200px;
-  box-sizing: border-box;
-}
+}*/
 
 .sidenav {
-  background-color: #3f51b5;
+  background-color: #3F51B5;
   width: 200px;
 }
 
 .sidenav a {
-  color: #ffffff;
+  color: #FFF;
 }
 
 .sidenav i {
   padding-right: 10px;
+}
+
+.content {
+  padding: 16px;
+  background-color: #FFF;
 }

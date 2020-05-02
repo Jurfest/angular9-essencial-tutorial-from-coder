@@ -3,10 +3,9 @@
   bottom: 0;
   display: flex;
   justify-content: flex-end;
+  z-index: 999;
 }
 
-
-
-i {
+.footer i {
   font-size: 11px;
 }
