@@ -3,6 +3,14 @@
     Welcome!
   </mat-card-title>
   <mat-card-subtitle class="subtitle">
-    System to exemplify the construction of an Angular registration
+    System to exemplify the construction of an Angular registration application | CRUD application
   </mat-card-subtitle>
+</mat-card>
+<br>
+<mat-card>
+  <ul>
+    <li *myFor="let n de ['C: create', 'R: read', 'U: update', 'D: delete']">
+      {{ n }}
+    </li>
+  </ul>
 </mat-card>
