@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin: 20px 15px 0 0;
+}
+
+button {
+  background-color: #3F51B5;
+}
