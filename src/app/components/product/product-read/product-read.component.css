@@ -1,4 +1,16 @@
 table {
   width: 100%;
-  
+
+}
+
+.edit > i{
+  color: var(--moderate-cyan);
+}
+
+.delete > i{
+  color: hsl(0, 60%, 43%);
+}
+
+.delete {
+  margin-left: 5px;
 }

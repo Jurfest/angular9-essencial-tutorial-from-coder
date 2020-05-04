@@ -9,7 +9,7 @@ import { ProductModel } from '../product-model'
 })
 export class ProductReadComponent implements OnInit {
   products: ProductModel[];
-  displayedColumns: string[] = ['id', 'name', 'price'];
+  displayedColumns: string[] = ['id', 'name', 'price', 'action'];
 
   constructor(private _service: ProductService) { }
 
