@@ -25,6 +25,10 @@ export class ProductService {
   // observable: padrão baseado em evento
                                           // generics: notação de tipagem 
   create(product: ProductModel): Observable<ProductModel> {
-    return this._http.post<ProductModel>(this.baseUrl, product)
+    return this._http.post<ProductModel>(this.baseUrl, product);
+  }
+
+  read(): Observable<ProductModel[]> {
+    return this._http.get<ProductModel[]>(this.baseUrl);
   }
 }
