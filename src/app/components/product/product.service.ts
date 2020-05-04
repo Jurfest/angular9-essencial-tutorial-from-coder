@@ -31,4 +31,14 @@ export class ProductService {
   read(): Observable<ProductModel[]> {
     return this._http.get<ProductModel[]>(this.baseUrl);
   }
+
+  readById(id: string): Observable<ProductModel> {
+    const url = `${this.baseUrl}/${id}`;
+    return this._http.get<ProductModel>(url);
+  }
+
+  update(product: ProductModel): Observable<ProductModel> {
+    const url = `${this.baseUrl}/${product.id}`;
+    return this._http.put<ProductModel>(url, product);
+  }
 }
