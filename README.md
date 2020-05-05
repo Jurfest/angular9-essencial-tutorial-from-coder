@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="CRUD Application" src="./src/assets/img/logo.png"/>
+  <img alt="CRUD Application" src="./src/assets/img/logo.png" width="300px"/>
     <br>
 </h1>
 
@@ -11,7 +11,7 @@
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
 <img alt="Made by Jurfest" src="https://img.shields.io/badge/made%20by-Jurfest-%20?color=FF5E84">
 <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
- <img alt="GitHub license" src="https://opensource.org/licenses/MIT">
+ <img alt="GitHub license" src="https://img.shields.io/github/license/Jurfest/angular9-essencial-tutorial-from-coder">
 </p> 
 
 <p align="center">
