@@ -31,34 +31,34 @@ This project was developed with the following technologies:
 -  [JavaScript](https://www.javascript.com)
 -  [HTML](https://www.w3.org)
 -  [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
--  [json-server](https://github.com/typicode/json-server).
+-  [json-server](https://github.com/typicode/json-server)
 
 ### Installing the Application
 Clone the repository and install the dependencies.
 ```bash
 # to clone the repository
-git clone https://github.com/Jurfest/angular9-essencial-tutorial-from-coder.git
+$ git clone https://github.com/Jurfest/angular9-essencial-tutorial-from-coder.git
 
 # go into the folder
-cd angular9-essencial-tutorial-from-coder/
+$ cd angular9-essencial-tutorial-from-coder/
 
 #install the backend dependencies
-npm install
+$ npm install
 
 ```
 
-### :microscope: a way to inspect the code
+### :microscope: A way to inspect the code
 
 After installing VS Code:
 
 ```bash
-code .
+$ code .
 ```
 
-### :arrow_forward: run application
+### :arrow_forward: Run application
 
 ```bash
-ng serve
+$ ng serve
 ```
 Inside the browser:
 <p>http://localhost:5000</p>
@@ -70,10 +70,10 @@ Inside the browser:
 ### :rocket: Preview
 
 <h1 align="center">
-    <img alt="" src="./src/assets/img/home" width="940px"/>
+    <img alt="" src="./src/assets/img/home.png" width="940px"/>
 </h1>
 <h1 align="center">
-    <img alt="" src="./src/assets/img/products" width="940px"/>
+    <img alt="" src="./src/assets/img/products.png" width="940px"/>
 </h1>
 
 ### :page_facing_up: License
