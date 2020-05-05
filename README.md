@@ -77,6 +77,10 @@ Inside the browser:
     <img alt="" src="./src/assets/img/products.png" width="940px"/>
 </h1>
 
+### Acknowledgment
+
+This project is my result after completing the free, online and certified course provided by [CODER](https://www.cod3r.com.br/courses/angular-9-essencial).
+
 ### :page_facing_up: License
 
 This project is under the MIT license. 
@@ -84,10 +88,6 @@ This project is under the MIT license.
 ### :mailbox_with_mail: Get in touch!
 
 [LinkedIn](https://www.linkedin.com/in/diegojurfest/)
-
-### Acknowledgment
-
-This project is my result after completing the free, online and certified course provided by [CODER](https://www.cod3r.com.br/courses/angular-9-essencial).
 
 ### Frontend aditional information
 
