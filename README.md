@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="CRUD Application" src="./src/assets/img/logo.png" width="300px"/>
+  <img alt="CRUD Application" src="./src/assets/img/logo.png" width="250px"/>
     <br>
 </h1>
 
@@ -67,7 +67,7 @@ Inside the browser:
 <img src="public/Print_2.PNG"/>
 <img src="public/Print_3.PNG"/> -->
 
-### :rocket: Preview
+### Preview
 
 <h1 align="center">
     <img alt="" src="./src/assets/img/home.png" width="940px"/>
