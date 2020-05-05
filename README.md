@@ -55,7 +55,7 @@ After installing VS Code:
 $ code .
 ```
 
-### :arrow_forward: Run application
+### Running the application
 
 ```bash
 $ ng serve
