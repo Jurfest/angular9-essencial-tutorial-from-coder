@@ -61,7 +61,7 @@ $ code .
 $ ng serve
 ```
 Inside the browser:
-<p>http://localhost:5000</p>
+<p>http://localhost:4200</p>
 
 <!-- <img src="public/Print_1.PNG"/>
 <img src="public/Print_2.PNG"/>
