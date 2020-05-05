@@ -85,10 +85,11 @@ This project is under the MIT license.
 
 [LinkedIn](https://www.linkedin.com/in/diegojurfest/)
 
-
-### Frontend aditional information
+### Acknowledgment
 
 This project is my result after completing the free, online and certified course provided by [CODER](https://www.cod3r.com.br/courses/angular-9-essencial).
+
+### Frontend aditional information
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
