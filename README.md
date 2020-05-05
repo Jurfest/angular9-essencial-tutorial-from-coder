@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="CRUD Application" src="./src/assets/img/globes.svg"/>
+  <img alt="CRUD Application" src="./src/assets/img/globes.svg" style="width: 400px; height: 400px;" />
     <br>
 </h1>
 
@@ -15,21 +15,21 @@
 </p> 
 
 <p align="center">
-  <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installing-the-application">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-license">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
 </p>
 <br><br>
 
-## :rocket: Built with
+### :computer: Technologies
 
 This project was developed with the following technologies:
 
 -  [Angular](https://angular.io)
 -  [TypeScript](https://www.typescriptlang.org)
 -  [JavaScript](https://www.javascript.com)
--  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-  [HTML](https://www.w3.org)
 -  [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 -  [json-server](https://github.com/typicode/json-server).
 
@@ -47,10 +47,22 @@ npm install
 
 ```
 
-# run application
+# :microscope: a way to inspect the code
+
+After installing VS Code:
+
+```bash
+code .
+```
+
+# :arrow_forward: run application
+
 ```bash
 ng serve
 ```
+Inside the browser:
+<p>http://localhost:5000</p>
+
 <!-- <img src="public/Print_1.PNG"/>
 <img src="public/Print_2.PNG"/>
 <img src="public/Print_3.PNG"/> -->
@@ -69,11 +81,15 @@ This project is under the MIT license.
 [LinkedIn](https://www.linkedin.com/in/diegojurfest/)
 
 
-# Frontend aditional information
+## Frontend aditional information
 
 This project is my result after completing the free, online and certified course provided by [CODER](https://www.cod3r.com.br/courses/angular-9-essencial).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+
+## Backend aditional information
+
+Backend is not included in this repository. However it can be easily and quickly created, making use of [json-server](https://github.com/typicode/json-server).
 
 ## Development server
 
@@ -98,10 +114,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## Backend
-
-Backend is not included in this repository. However it can be easily and quickly created, making use of [json-server](https://github.com/typicode/json-server).
 
 
 ### Thats it ! :wave:
