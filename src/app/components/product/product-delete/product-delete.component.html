@@ -4,10 +4,13 @@
   </mat-card-title>
   <form>
     <mat-form-field>
-        <output name="name">{{product.name}}</output>
+        <!-- <output name="name">{{product.name}}</output> -->
+      <input matInput placeholder="name" [value]="product.name" name="name" disabled>
+
     </mat-form-field>
     <mat-form-field>
-        <output name="price">{{product.price}}</output>
+      <input matInput placeholder="price ($)" [value]="product.price" name="price" disabled>
+      <!-- <output name="price">{{product.price}}</output> -->
     </mat-form-field>
   </form>
 
