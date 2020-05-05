@@ -1,14 +1,79 @@
-# Frontend
+<h1 align="center">
+  <img alt="CRUD Application" src="./src/assets/img/globes.svg"/>
+    <br>
+</h1>
 
-Front-End: Angular 9 website that performs CRUD operations.
-This project was the result of the free, online and certified course provided by [COD3R](https://www.cod3r.com.br/courses/angular-9-essencial).
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+<h4 align="center">
+  Angular 9 website that performs CRUD operations 
+</h4>
 
+<p align="center">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
+<img alt="Made by Jurfest" src="https://img.shields.io/badge/made%20by-Jurfest-%20?color=FF5E84">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
+ <img alt="GitHub license" src="https://opensource.org/licenses/MIT">
+</p> 
+
+<p align="center">
+  <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-license">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
+</p>
+<br><br>
+
+## :rocket: Built with
+
+This project was developed with the following technologies:
+
+-  [Angular](https://angular.io)
+-  [TypeScript](https://www.typescriptlang.org)
+-  [JavaScript](https://www.javascript.com)
+-  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-  [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+-  [json-server](https://github.com/typicode/json-server).
+
+### Installing the Application
+Clone the repository and install the dependencies.
+```bash
+# to clone the repository
+git clone https://github.com/Jurfest/angular9-essencial-tutorial-from-coder.git
+
+# go into the folder
+cd angular9-essencial-tutorial-from-coder/
+
+#install the backend dependencies
+npm install
+
+```
+
+# run application
+```bash
+ng serve
+```
+<!-- <img src="public/Print_1.PNG"/>
+<img src="public/Print_2.PNG"/>
+<img src="public/Print_3.PNG"/> -->
 <!-- ### :rocket: Preview
 
 <h1 align="center">
     <img alt="" src="./public/assets/preview.png" width="940px"/>
 </h1> -->
+
+## :page_facing_up: License
+
+This project is under the MIT license. 
+
+## :mailbox_with_mail: Get in touch!
+
+[LinkedIn](https://www.linkedin.com/in/diegojurfest/)
+
+
+# Frontend aditional information
+
+This project is my result after completing the free, online and certified course provided by [CODER](https://www.cod3r.com.br/courses/angular-9-essencial).
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ## Development server
 
@@ -37,6 +102,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Backend
 
 Backend is not included in this repository. However it can be easily and quickly created, making use of [json-server](https://github.com/typicode/json-server).
+
 
 ### Thats it ! :wave:
 
