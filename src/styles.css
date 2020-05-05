@@ -35,3 +35,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .attribution a {
   color: var(--moderate-cyan);
 }
+
+.msg-success {
+  background-color: #28a745;
+  color: #ffffff;
+}
+
+.msg-error {
+  background-color: #e35e6b;
+  color: #ffffff;
+}
