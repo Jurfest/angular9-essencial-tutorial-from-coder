@@ -8,9 +8,9 @@
 </h4>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
-<img alt="Made by Jurfest" src="https://img.shields.io/badge/made%20by-Jurfest-%20?color=FF5E84">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/angular9-essencial-tutorial-from-coder?color=FF5E84">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/angular9-essencial-tutorial-from-coder">
+<img alt="Made by Jurfest" src="https://img.shields.io/badge/made%20by-Jurfest-%20">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/angular9-essencial-tutorial-from-coder">
 <img alt="GitHub license" src="https://img.shields.io/github/license/Jurfest/angular9-essencial-tutorial-from-coder">
 </p> 
 
@@ -43,7 +43,7 @@ $ git clone https://github.com/Jurfest/angular9-essencial-tutorial-from-coder.gi
 # go into the folder
 $ cd angular9-essencial-tutorial-from-coder/
 
-#install the backend dependencies
+#install dependencies
 $ npm install
 
 ```
