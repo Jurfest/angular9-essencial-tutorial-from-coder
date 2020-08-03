@@ -23,7 +23,7 @@ import { MatSidenavModule } from '@angular/material/sidenav'
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
-import { MatSnackBarModule, MatSnackBar } from '@angular/material/snack-bar';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { HttpClientModule } from '@angular/common/http'
 import { FormsModule, ReactiveFormsModule } from '@angular/forms'
 import { MatFormFieldModule } from '@angular/material/form-field'
@@ -35,6 +35,7 @@ import { MatSortModule } from '@angular/material/sort';
 
 import localeEn from '@angular/common/locales/en';
 import { registerLocaleData } from '@angular/common';
+import { ProductRead3Component } from './components/product/product-read3/product-read3.component';
 registerLocaleData(localeEn);
 
 
@@ -52,7 +53,8 @@ registerLocaleData(localeEn);
     ProductReadComponent,
     ProductRead2Component,
     ProductUpdateComponent,
-    ProductDeleteComponent
+    ProductDeleteComponent,
+    ProductRead3Component
   ],
   imports: [
     BrowserModule,
